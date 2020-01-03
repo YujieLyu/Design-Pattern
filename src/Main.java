@@ -11,6 +11,11 @@ public class Main {
     public static void main(String[] args) {
 
 
+        InsertSort sort=new InsertSort(2);
+        sort.setArr("2,3,4,5");
+        sort.insert(1);
+        System.out.println(sort.toString());
+
         MyLinkedList m = new MyLinkedList();
         m.add("String");
         m.add("hello");
