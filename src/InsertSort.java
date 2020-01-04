@@ -19,8 +19,6 @@ public class InsertSort {
         for (int i=0;i<arr.size();i++){
             if (arr.get(i) >candidate){
                 arr.set(i,candidate);
-            }else {
-                continue;
             }
         }
     }
