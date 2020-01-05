@@ -2,7 +2,7 @@ package StrategyPattern;
 
 import java.util.Scanner;
 
-public class Controller {
+public class StrategyController {
     public static void main(String[] args) {
         int totalPrice = 0;
         String item;
