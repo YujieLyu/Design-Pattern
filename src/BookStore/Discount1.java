@@ -2,12 +2,12 @@ package BookStore;
 
 public class Discount1 implements DiscountStrategy {
 
-    private double finalPrice;
+    private int finalPrice;
     private static final double DISCOUNT1 = 0.9;
 
     @Override
-    public double discount(double price) {
-        finalPrice = price * DISCOUNT1;
+    public int discount(int price,int count) {
+        finalPrice = (int) (price * DISCOUNT1*count);
         return finalPrice;
     }
 }
