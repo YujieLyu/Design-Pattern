@@ -1,4 +1,4 @@
-package BookStore;
+package StrategyPattern;
 public class Checkout {
 
     private DiscountStrategy discountStrategy;

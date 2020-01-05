@@ -1,4 +1,4 @@
-package BookStore;
+package StrategyPattern;
 
 public class Discount2 implements DiscountStrategy {
 

@@ -1,4 +1,4 @@
-package BookStore;
+package StrategyPattern;
 
 public interface DiscountStrategy {
 

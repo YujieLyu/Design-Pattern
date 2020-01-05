@@ -1,4 +1,4 @@
-package BookStore;
+package StrategyPattern;
 
 public class Book {
     private int price;

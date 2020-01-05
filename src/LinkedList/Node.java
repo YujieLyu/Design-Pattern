@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class Node {
     private Object value;
     private Node succ;
