@@ -18,9 +18,14 @@ public class Radar {
 
     }
 
-    public void attach(Observer observer){
+    public void register(Observer observer){
         observers.add(observer);
     }
+
+    public void cancel(Observer observer){
+        observers.remove(observer);
+    }
+
     public void notifyAllObserver(){
         for(Observer o:observers){
             o.update();

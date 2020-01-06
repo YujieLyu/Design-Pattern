@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e799b8b4-e745-489d-9b4c-6ba65ac41fa5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/Cannon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/Missile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObserverPattern/Radar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObserverPattern/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObserverPattern/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObserverPattern/Cannon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObserverPattern/Cannon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObserverPattern/ObserverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObserverPattern/ObserverController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObserverPattern/Radar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObserverPattern/Radar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,39 +18,39 @@
     <session id="1625596655">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="11" />
-          <entry key="java" value="12870" />
+          <entry key="dummy" value="32" />
+          <entry key="java" value="13034" />
           <entry key="myLinkedList_elements" value="55" />
-          <entry key="txt" value="78" />
+          <entry key="txt" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12870" />
-          <entry key="PLAIN_TEXT" value="144" />
+          <entry key="JAVA" value="13034" />
+          <entry key="PLAIN_TEXT" value="200" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="elements" value="1" />
-          <entry key="java" value="40" />
+          <entry key="java" value="41" />
           <entry key="myLinkedList_elements" value="2" />
           <entry key="txt" value="1" />
           <entry key="writeByCode" value="2" />
@@ -61,7 +59,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="40" />
+          <entry key="JAVA" value="41" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -69,25 +67,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Controller.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ObserverPattern/ObserverController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="264">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Radar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="528">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
                 <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,11 +94,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Cannon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            <state relative-caret-position="44">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
               <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Missile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            <state relative-caret-position="132">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -118,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="88">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -156,10 +154,11 @@
         <option value="$PROJECT_DIR$/src/BookStore/Controller.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ObserverPattern/Observer.java" />
-        <option value="$PROJECT_DIR$/src/ObserverPattern/Radar.java" />
-        <option value="$PROJECT_DIR$/src/ObserverPattern/Cannon.java" />
         <option value="$PROJECT_DIR$/src/ObserverPattern/Missile.java" />
         <option value="$PROJECT_DIR$/src/ObserverPattern/Controller.java" />
+        <option value="$PROJECT_DIR$/src/ObserverPattern/Cannon.java" />
+        <option value="$PROJECT_DIR$/src/ObserverPattern/ObserverController.java" />
+        <option value="$PROJECT_DIR$/src/ObserverPattern/Radar.java" />
       </list>
     </option>
   </component>
@@ -170,7 +169,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="921" />
@@ -199,18 +197,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ObserverPattern" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StrategyPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578230256703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578269726569" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
@@ -312,7 +316,8 @@
       <workItem from="1578088341152" duration="152000" />
       <workItem from="1578100182542" duration="672000" />
       <workItem from="1578144783873" duration="1672000" />
-      <workItem from="1578170401623" duration="20635000" />
+      <workItem from="1578170401623" duration="20871000" />
+      <workItem from="1578265962182" duration="1561000" />
     </task>
     <task id="LOCAL-00001" summary="Insert sort practice">
       <created>1578055939634</created>
@@ -342,17 +347,24 @@
       <option name="project" value="LOCAL" />
       <updated>1578229169961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Observer Pattern practice">
+      <created>1578230289816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578230289816</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54813000" />
+    <option name="totallyTimeSpent" value="56610000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="23" width="1920" height="921" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.20473538" visible="true" weight="0.14483494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.20473538" visible="true" weight="0.14643237" />
       <window_info id="Structure" order="1" sideWeight="0.7952646" side_tool="true" weight="0.2546495" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +404,8 @@
     <MESSAGE value="Insert sort practice" />
     <MESSAGE value="Strategy design pattern" />
     <MESSAGE value="Refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
+    <MESSAGE value="Observer Pattern practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Observer Pattern practice" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
@@ -448,10 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
-          <folding>
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -473,12 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-          <folding>
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -493,16 +496,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding>
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1144">
           <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
@@ -544,9 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/writeByCode">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/writeByCode" />
     <entry file="file://$PROJECT_DIR$/src/LinkedList/writeByCode">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -554,9 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,48 +576,55 @@
     <entry file="file://$PROJECT_DIR$/src/elements">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Observer.java">
+    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Missile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Radar.java">
+    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Cannon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="44">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
           <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Missile.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        <state relative-caret-position="176">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/ObserverController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="264">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Radar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,8 +1,6 @@
 package ObserverPattern;
 
-public abstract class Observer {
+ public interface Observer {
 
-    protected Radar radar;
-
-    public abstract void update();
+     void update();
 }
