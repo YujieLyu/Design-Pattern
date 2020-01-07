@@ -2,15 +2,15 @@ package AbstractFactory;
 
 public class FactoryController {
     public static void main(String[] args) {
-        AbstractFactory factory = new FactoryProducer().getFactory("clothes");
-        AbstractFactory factory1 = new FactoryProducer().getFactory("shoes");
+        AbstractFactory nikeFactory = new FactoryProducer().getFactory("Nike");
+        AbstractFactory adidasFactory = new FactoryProducer().getFactory("Adidas");
 
         //prepare a dress+ Mary Jane shoes
         System.out.print("This is a ");
-        Clothes dress = factory.produceClothes("dress");
+        Clothes dress = nikeFactory.produceClothes();
         dress.produce();
         System.out.print(", needs to be wear with a ");
-        Shoes mjShoes = factory1.makeShoes("MaryJane");
+        Shoes mjShoes = adidasFactory.makeShoes();
         mjShoes.make();
 
     }

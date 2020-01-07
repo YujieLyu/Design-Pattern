@@ -2,14 +2,14 @@ package AbstractFactory;
 
 public class FactoryProducer {
 
-    private static final String CLOTHES = "CLOTHES";
-    private static final String SHOES = "SHOES";
+    private static final String NIKE = "NIKE";
+    private static final String ADIDAS = "ADIDAS";
 
     public AbstractFactory getFactory(String request) {
         switch (request.toUpperCase().trim()) {
-            case CLOTHES:
+            case NIKE:
                 return new NikeFactory();
-            case SHOES:
+            case ADIDAS:
                 return new AdidasFactory();
             default:
                 return null;
