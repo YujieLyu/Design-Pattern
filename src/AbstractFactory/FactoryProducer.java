@@ -8,9 +8,9 @@ public class FactoryProducer {
     public AbstractFactory getFactory(String request) {
         switch (request.toUpperCase().trim()) {
             case CLOTHES:
-                return new ClothesFactory();
+                return new NikeFactory();
             case SHOES:
-                return new ShoeFactory();
+                return new AdidasFactory();
             default:
                 return null;
         }

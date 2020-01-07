@@ -17,5 +17,11 @@ public class PDF implements File {
         return new PDF(this.name+"copy",this.id*2);
     }
 
+    public String getName(){
+        return name;
+    }
 
+    public int  getId(){
+        return id;
+    }
 }

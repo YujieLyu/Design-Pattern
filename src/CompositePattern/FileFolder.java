@@ -31,7 +31,13 @@ public class FileFolder implements File {
 
     @Override
     public File copyFile() {
-        return new FileFolder(this.name + "copy", this.id * 2);
+        // fixme: files in this folder were not copied.
+
+        FileFolder fileFolder= new FileFolder(this.name + "copy", this.id * 2);
+        for(File file:files){
+            fileFolder.addFile(file.copyFile());
+        }
+        return fileFolder;
     }
 
 }

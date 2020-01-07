@@ -10,6 +10,14 @@ public class Image implements File {
         this.id = id;
     }
 
+    public String getName(){
+        return name;
+    }
+
+    public int  getId(){
+        return id;
+    }
+
     public void showFileDetails() {
         System.out.println("I'm "+this.name+", id is "+this.id);
     }
