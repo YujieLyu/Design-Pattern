@@ -42,8 +42,8 @@ public class StrategyController {
                         checkout = new Checkout(new Discount3());
                         break;
                 }
+                totalPrice += checkout != null ? checkout.getTotal(price, count) : 0;
 
-                totalPrice += checkout.checkout(price, count);
 
                 System.out.println(totalPrice);
             } catch (NumberFormatException e) {

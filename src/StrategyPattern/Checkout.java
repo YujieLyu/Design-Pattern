@@ -9,7 +9,7 @@ public class Checkout {
     }
 
 
-    public int checkout(int price,int count){
+    public int getTotal(int price, int count){
        return discountStrategy.discount(price,count);
     }
 

@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e799b8b4-e745-489d-9b4c-6ba65ac41fa5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ClothesFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Dress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/FactoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/MaryJaneShoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/OxfordShoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Shirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ShoeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Shoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/ClassMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/SingletonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompositePattern/CompositeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompositePattern/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompositePattern/FileFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompositePattern/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompositePattern/PDF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StrategyPattern/StrategyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrategyPattern/StrategyController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +22,7 @@
     <session id="1625596655">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -38,29 +32,30 @@
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="32" />
-          <entry key="java" value="14908" />
+          <entry key="java" value="16841" />
           <entry key="myLinkedList_elements" value="55" />
-          <entry key="txt" value="126" />
+          <entry key="txt" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14908" />
-          <entry key="PLAIN_TEXT" value="213" />
+          <entry key="JAVA" value="16841" />
+          <entry key="PLAIN_TEXT" value="256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="elements" value="1" />
-          <entry key="java" value="55" />
+          <entry key="java" value="69" />
           <entry key="myLinkedList_elements" value="2" />
           <entry key="txt" value="1" />
           <entry key="writeByCode" value="2" />
@@ -69,120 +64,71 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="55" />
+          <entry key="JAVA" value="69" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/FactoryController.java">
+        <entry file="file://$PROJECT_DIR$/src/CompositePattern/CompositeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="462">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/FactoryProducer.java">
+        <entry file="file://$PROJECT_DIR$/src/CompositePattern/File.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="88">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Shoes.java">
+        <entry file="file://$PROJECT_DIR$/src/CompositePattern/Image.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/OxfordShoe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="374">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
               <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Shirt.java">
+        <entry file="file://$PROJECT_DIR$/src/CompositePattern/PDF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="352">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ShoeFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/CompositePattern/FileFolder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="45" />
+            <state relative-caret-position="430">
+              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
               <folding>
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ClothesFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-              <folding>
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/MaryJaneShoes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-              <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Dress.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -229,14 +175,21 @@
         <option value="$PROJECT_DIR$/src/AbstractFactory/Clothes.java" />
         <option value="$PROJECT_DIR$/src/AbstractFactory/Shoes.java" />
         <option value="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactory/Dress.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactory/MaryJaneShoes.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactory/OxfordShoe.java" />
-        <option value="$PROJECT_DIR$/src/AbstractFactory/Shirt.java" />
         <option value="$PROJECT_DIR$/src/AbstractFactory/ShoeFactory.java" />
         <option value="$PROJECT_DIR$/src/AbstractFactory/ClothesFactory.java" />
         <option value="$PROJECT_DIR$/src/AbstractFactory/FactoryProducer.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/Dress.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/MaryJaneShoes.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/Shirt.java" />
+        <option value="$PROJECT_DIR$/src/AbstractFactory/OxfordShoe.java" />
         <option value="$PROJECT_DIR$/src/AbstractFactory/FactoryController.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/StrategyController.java" />
+        <option value="$PROJECT_DIR$/src/StrategyPattern/Checkout.java" />
+        <option value="$PROJECT_DIR$/src/CompositePattern/File.java" />
+        <option value="$PROJECT_DIR$/src/CompositePattern/FileFolder.java" />
+        <option value="$PROJECT_DIR$/src/CompositePattern/Image.java" />
+        <option value="$PROJECT_DIR$/src/CompositePattern/PDF.java" />
+        <option value="$PROJECT_DIR$/src/CompositePattern/CompositeController.java" />
       </list>
     </option>
   </component>
@@ -273,7 +226,7 @@
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="CompositePattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578273861614" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578358477293" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
@@ -309,7 +262,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryController">
+  <component name="RunManager" selected="Application.CompositeController">
+    <configuration name="CompositeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompositePattern.CompositeController" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CompositePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactoryController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractFactory.FactoryController" />
       <module name="practice" />
@@ -319,13 +285,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ImmutableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImmutableTest" />
-      <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -370,19 +329,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ImmutableTest" />
       <item itemvalue="Application.StrategyController" />
       <item itemvalue="Application.ObserverController" />
       <item itemvalue="Application.SingletonController" />
       <item itemvalue="Application.FactoryController" />
+      <item itemvalue="Application.CompositeController" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompositeController" />
         <item itemvalue="Application.FactoryController" />
         <item itemvalue="Application.SingletonController" />
         <item itemvalue="Application.ObserverController" />
         <item itemvalue="Application.StrategyController" />
-        <item itemvalue="Application.ImmutableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +366,8 @@
       <workItem from="1578100182542" duration="672000" />
       <workItem from="1578144783873" duration="1672000" />
       <workItem from="1578170401623" duration="20871000" />
-      <workItem from="1578265962182" duration="4137000" />
+      <workItem from="1578265962182" duration="5163000" />
+      <workItem from="1578350566571" duration="3573000" />
     </task>
     <task id="LOCAL-00001" summary="Insert sort practice">
       <created>1578055939634</created>
@@ -451,17 +411,24 @@
       <option name="project" value="LOCAL" />
       <updated>1578269936791</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Singleton + abstract Factory pattern">
+      <created>1578273928229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578273928229</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59186000" />
+    <option name="totallyTimeSpent" value="63785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="921" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.20473538" visible="true" weight="0.14643237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.20473538" visible="true" weight="0.14802982" />
       <window_info id="Structure" order="1" sideWeight="0.7952646" side_tool="true" weight="0.2546495" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,7 +437,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293124" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20627262" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20627262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39806998" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,16 +470,10 @@
     <MESSAGE value="Refactoring" />
     <MESSAGE value="Observer Pattern practice" />
     <MESSAGE value="Observer Pattern refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Observer Pattern refactoring" />
+    <MESSAGE value="Singleton + abstract Factory pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton + abstract Factory pattern" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="664" column="16" selection-start-line="664" selection-start-column="16" selection-end-line="664" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -593,31 +554,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Checkout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Discount1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -632,13 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/DiscountStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -723,13 +656,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton.java" />
     <entry file="file://$PROJECT_DIR$/src/ObserverPattern/ObserverController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -748,23 +675,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton/ClassMaster.java">
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ClothesFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton/SingletonController.java">
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Dress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="132">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -782,46 +714,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/FactoryProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Dress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/MaryJaneShoes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/OxfordShoe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractFactory/Shirt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -829,9 +732,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/FactoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton/ClassMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton/SingletonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Checkout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/Discount1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/DiscountStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrategyPattern/StrategyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/OxfordShoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ShoeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
+        <state relative-caret-position="198">
           <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="45" />
           <folding>
             <element signature="e#583#584#0" expanded="true" />
@@ -840,28 +803,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/ClothesFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/MaryJaneShoes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        <state relative-caret-position="132">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/FactoryProducer.java">
+    <entry file="file://$PROJECT_DIR$/src/CompositePattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AbstractFactory/FactoryController.java">
+    <entry file="file://$PROJECT_DIR$/src/CompositePattern/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="88">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompositePattern/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompositePattern/PDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompositePattern/FileFolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CompositePattern/CompositeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
