@@ -1,3 +1,5 @@
+package HackerRank_Practice;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;

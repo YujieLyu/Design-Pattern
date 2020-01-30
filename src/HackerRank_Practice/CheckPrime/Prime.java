@@ -1,7 +1,6 @@
-package CheckPrime;
+package HackerRank_Practice.CheckPrime;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Prime {
     public void checkPrime(Integer ... a){

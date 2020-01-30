@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e799b8b4-e745-489d-9b4c-6ba65ac41fa5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PrintOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HackerRank_Practice/PhoneBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckPrime/Prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/CheckPrime/Prime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckPrime/PrimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/CheckPrime/PrimeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MealCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/MealCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/OddOrEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/PrintOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/TypePractice.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,23 +44,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="97" />
-          <entry key="java" value="20501" />
+          <entry key="dummy" value="106" />
+          <entry key="java" value="20801" />
           <entry key="myLinkedList_elements" value="55" />
-          <entry key="txt" value="337" />
+          <entry key="txt" value="339" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20501" />
-          <entry key="PLAIN_TEXT" value="489" />
+          <entry key="JAVA" value="20801" />
+          <entry key="PLAIN_TEXT" value="500" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="elements" value="1" />
-          <entry key="java" value="151" />
+          <entry key="java" value="154" />
           <entry key="myLinkedList_elements" value="2" />
           <entry key="txt" value="2" />
           <entry key="writeByCode" value="2" />
@@ -62,7 +69,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="150" />
+          <entry key="JAVA" value="153" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="Scratch" value="1" />
         </counts>
@@ -72,10 +79,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CheckPrime/Prime.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/CheckPrime/Prime.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,10 +91,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OddOrEven.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/OddOrEven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="127">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,14 +102,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/PrintOdd.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/PrintOdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            <state relative-caret-position="192">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/MealCost.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -117,19 +133,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TypePractice.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/TypePractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="96">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CheckPrime/PrimeController.java">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/PhoneBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/CheckPrime/PrimeController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,9 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BookStore/Book.java" />
-        <option value="$PROJECT_DIR$/src/BookStore/Controller.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ObserverPattern/Controller.java" />
         <option value="$PROJECT_DIR$/src/ObserverPattern/Radar.java" />
         <option value="$PROJECT_DIR$/src/ObserverPattern/Observer.java" />
@@ -204,6 +238,9 @@
         <option value="$PROJECT_DIR$/src/OddOrEven.java" />
         <option value="$PROJECT_DIR$/src/file.txt" />
         <option value="$PROJECT_DIR$/src/PrintOdd.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank_Practice/TypePractice.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank_Practice/NumReverse.java" />
+        <option value="$PROJECT_DIR$/src/HackerRank_Practice/PhoneBook.java" />
       </list>
     </option>
   </component>
@@ -239,6 +276,12 @@
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank_Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
@@ -256,7 +299,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580350952058" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580355830694" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last.edited.regexp" value="2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -282,27 +325,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintOdd">
+  <component name="RunManager">
     <configuration name="MealCost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MealCost" />
+      <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.MealCost" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="OddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OddOrEven" />
+      <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.OddOrEven" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckPrime.PrimeController" />
+    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.PhoneBook" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CheckPrime.*" />
+          <option name="PATTERN" value="HackerRank_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,33 +354,33 @@
       </method>
     </configuration>
     <configuration name="PrintOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintOdd" />
+      <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.PrintOdd" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TypePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypePractice" />
+      <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.TypePractice" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PrimeController" />
       <item itemvalue="Application.TypePractice" />
       <item itemvalue="Application.MealCost" />
       <item itemvalue="Application.OddOrEven" />
       <item itemvalue="Application.PrintOdd" />
+      <item itemvalue="Application.PhoneBook" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneBook" />
         <item itemvalue="Application.PrintOdd" />
         <item itemvalue="Application.OddOrEven" />
         <item itemvalue="Application.MealCost" />
         <item itemvalue="Application.TypePractice" />
-        <item itemvalue="Application.PrimeController" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +415,7 @@
       <workItem from="1579156903412" duration="711000" />
       <workItem from="1579301812950" duration="1321000" />
       <workItem from="1580285220112" duration="3699000" />
-      <workItem from="1580344759766" duration="1916000" />
+      <workItem from="1580344759766" duration="4145000" />
     </task>
     <task id="LOCAL-00001" summary="Insert sort practice">
       <created>1578055939634</created>
@@ -472,11 +515,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579302742263</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Day6">
+      <created>1580351046346</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580351046346</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97025000" />
+    <option name="totallyTimeSpent" value="99254000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -542,7 +592,8 @@
     <MESSAGE value="HackerRank Challenge" />
     <MESSAGE value="HackerRank 30 Days challenges" />
     <MESSAGE value="Day2&amp;3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day2&amp;3" />
+    <MESSAGE value="Day6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -554,28 +605,15 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CheckPrime/PrimeController.java</url>
+          <url>file://$PROJECT_DIR$/src/HackerRank_Practice/CheckPrime/PrimeController.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PrintOdd.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/myLinkedList_elements">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/writeByCode" />
     <entry file="file://$PROJECT_DIR$/src/LinkedList/writeByCode">
       <provider selected="true" editor-type-id="text-editor" />
@@ -817,13 +855,6 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2009">
@@ -845,44 +876,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MealCost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckPrime/Prime.java">
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/CheckPrime/Prime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OddOrEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypePractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CheckPrime/PrimeController.java">
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/CheckPrime/PrimeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -896,10 +903,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrintOdd.java">
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/MealCost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="96">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/OddOrEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/PrintOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/TypePractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/PhoneBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

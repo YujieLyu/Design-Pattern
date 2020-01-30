@@ -1,3 +1,5 @@
+package HackerRank_Practice;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -7,7 +9,7 @@ import java.util.regex.*;
 public class PrintOdd {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named HackerRank_Practice.Solution. */
         Scanner scan = new Scanner(System.in);
         String s;
 

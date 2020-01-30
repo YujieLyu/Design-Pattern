@@ -1,7 +1,6 @@
+package HackerRank_Practice;
+
 import java.io.*;
-import java.lang.reflect.*;
-import java.util.*;
-import java.util.regex.*;
 import java.security.*;
 
 
@@ -13,7 +12,7 @@ public class Solution {
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             int num = Integer.parseInt(br.readLine().trim());
-            Object o;// Must be used to hold the reference of the instance of the class Solution.Inner.Private
+            Object o;// Must be used to hold the reference of the instance of the class HackerRank_Practice.Solution.Inner.Private
             o = new Inner().new Private();
             System.out.println(num + " is " + ((Inner.Private) o).powerof2(num));
 
@@ -34,7 +33,7 @@ public class Solution {
         }
     }//end of Inner
 
-}//end of Solution
+}//end of HackerRank_Practice.Solution
 
 class DoNotTerminate { //This class prevents exit(0)
 

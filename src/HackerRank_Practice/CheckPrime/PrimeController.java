@@ -1,10 +1,7 @@
-package CheckPrime;
+package HackerRank_Practice.CheckPrime;
 
 import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 import java.lang.reflect.*;
 import static java.lang.System.in;
 
