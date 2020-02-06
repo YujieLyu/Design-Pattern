@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e799b8b4-e745-489d-9b4c-6ba65ac41fa5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_Practice/LinkedListInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerRank_Practice/MaxDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HackerRank_Practice/LinkedListInsert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HackerRank_Practice/LinkedListInsert.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +13,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/practice$LinkedListInsert.ic" NAME="LinkedListInsert Coverage Results" MODIFIED="1580983520744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>HackerRank_Practice.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/practice$PrintOdd.ic" NAME="PrintOdd Coverage Results" MODIFIED="1580299596686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -42,15 +43,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="106" />
-          <entry key="java" value="21576" />
+          <entry key="java" value="21822" />
           <entry key="myLinkedList_elements" value="55" />
-          <entry key="txt" value="396" />
+          <entry key="txt" value="404" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21576" />
-          <entry key="PLAIN_TEXT" value="557" />
+          <entry key="JAVA" value="21822" />
+          <entry key="PLAIN_TEXT" value="565" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -125,8 +126,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/LinkedListInsert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="222">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -263,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580981921636" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580984318574" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last.edited.regexp" value="2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -289,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxDifference">
+  <component name="RunManager" selected="Application.LinkedListInsert">
     <configuration name="BinaryNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.BinaryNum" />
       <module name="practice" />
@@ -305,6 +306,19 @@
     </configuration>
     <configuration name="FactorialRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.FactorialRecursion" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HackerRank_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.LinkedListInsert" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
@@ -342,27 +356,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HackerRank_Practice.PrintOdd" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.PrintOdd" />
       <item itemvalue="Application.PhoneBook" />
       <item itemvalue="Application.FactorialRecursion" />
       <item itemvalue="Application.BinaryNum" />
       <item itemvalue="Application.MaxDifference" />
+      <item itemvalue="Application.LinkedListInsert" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListInsert" />
         <item itemvalue="Application.MaxDifference" />
         <item itemvalue="Application.BinaryNum" />
         <item itemvalue="Application.FactorialRecursion" />
         <item itemvalue="Application.PhoneBook" />
-        <item itemvalue="Application.PrintOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +412,7 @@
       <workItem from="1580817201500" duration="3008000" />
       <workItem from="1580864519396" duration="351000" />
       <workItem from="1580909334941" duration="383000" />
-      <workItem from="1580977356956" duration="2193000" />
+      <workItem from="1580977356956" duration="4369000" />
     </task>
     <task id="LOCAL-00001" summary="Insert sort practice">
       <created>1578055939634</created>
@@ -533,11 +540,18 @@
       <option name="project" value="LOCAL" />
       <updated>1580820032659</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Day 14: Scope">
+      <created>1580982166933</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580982166936</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108065000" />
+    <option name="totallyTimeSpent" value="110241000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -552,7 +566,7 @@
     <frame x="39" y="23" width="1867" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2031496" visible="true" weight="0.18082191" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.2031496" visible="true" weight="0.18082191" />
       <window_info id="Structure" order="1" sideWeight="0.7968504" side_tool="true" weight="0.16767123" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -561,7 +575,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850778" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29287305" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29287305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3964365" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,7 +594,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32931507" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +621,8 @@
     <MESSAGE value="Day8 Dictionary and maps" />
     <MESSAGE value="Day9 Recursion" />
     <MESSAGE value="Day 10: Binary Numbers--little tricky" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 10: Binary Numbers--little tricky" />
+    <MESSAGE value="Day 14: Scope" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 14: Scope" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -623,6 +638,12 @@
           <line>21</line>
           <properties />
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRank_Practice/LinkedListInsert.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -981,8 +1002,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HackerRank_Practice/LinkedListInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="222">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

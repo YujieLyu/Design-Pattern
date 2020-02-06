@@ -16,9 +16,17 @@ class LinkedListInsert {
 
     public static  Node insert(Node head,int data) {
         //Complete this method
-//        Node newHead=head;
-        Node addEle;
-        head.next=addEle;
+        Node newNode=new Node(data);
+        if (head==null){
+            head=newNode;
+        }else {
+            Node newHead=head;
+            while(newHead.next!=null){
+                newHead=newHead.next;
+            }
+            newHead.next=newNode;
+        }
+
         return head;
     }
 
