@@ -13,7 +13,6 @@ public class MyLinkedList {
            first=newNode;
             size = 1;
         }
-
     }
 
     public void changeValue(int index, Object obj){
